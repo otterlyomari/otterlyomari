@@ -1,53 +1,41 @@
-![](https://github.com/otterlyomari/otterlyomari/blob/main/omari.png)
+# Hi, I'm Omari 👋
 
-# Pls gib follow
+<img src="https://github.com/otterlyomari/otterlyomari/blob/main/omari.png" width="250" alt="Omari" />
 
+## About Me
 
+I'm a self-taught web developer and content creator with experience building modern websites using:
 
+* TypeScript
+* React
+* Next.js
+* Astro
+* Svelte
+* Git & GitHub
 
+I enjoy creating accessible, fast, and user-friendly web experiences while continuously expanding my skills as a developer.
 
-[Follow me on Twitch](https://www.twitch.tv/otterlyomarittv)
+## Current Projects
 
+* 🌐 Personal website and portfolio
+* 📚 Digital library and writing archive
+* 🎵 Symphony of Tidemere music projects
+* 🎮 Indie game development experiments
 
+## Featured Repositories
 
+* [OtterlyOmari Website](https://github.com/otterlyomari)
+* [Portfolio Projects](https://github.com/otterlyomari?tab=repositories)
 
+## Connect With Me
 
-[Follow me on BlueSky](https://bsky.app/profile/otterlyomari.furrest.online)
+* Twitch: https://www.twitch.tv/otterlyomarittv
+* BlueSky: https://bsky.app/profile/otterlyomari.furrest.online
+* YouTube: https://youtube.com/@OtterlyOmari
+* Email: symphonyoftidemere@gmail.com
 
+## Support My Work
 
-
-
-
-[Support me on Ko-fi](https://www.ko-fi.com/otterlyomari)
-
-
-
-
-[Commission me on Ko-fi](https://www.ko-fi.com/otterlyomari/comissions)
-
-
-
-
-[Support me on Throne](https://throne.com/otterlyomari)
-
-
-
-[Subscribe to my YouTube channel](https://youtube.com/@OtterlyOmari?sub_confirmation=1)
-
-
-
-[Follow my bandcamp page](https://symphonyoftidemere.bandcamp.com/)
-<!--
-**otterlyomari/otterlyomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Ko-fi: https://ko-fi.com/otterlyomari
+* Patreon: https://patreon.com/otterlyomari
+* Throne: https://throne.com/otterlyomari
