@@ -1,7 +1,5 @@
 # Hi, I'm Omari 👋
 
-<img src="https://github.com/otterlyomari/otterlyomari/blob/main/omari.png" width="250" alt="Omari" />
-
 ## About Me
 
 I'm a self-taught web developer and content creator with experience building modern websites using:
