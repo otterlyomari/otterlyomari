@@ -30,7 +30,7 @@ I enjoy creating accessible, fast, and user-friendly web experiences while conti
 * Twitch: https://www.twitch.tv/otterlyomarittv
 * BlueSky: https://bsky.app/profile/otterlyomari.furrest.online
 * YouTube: https://youtube.com/@OtterlyOmari
-* Email: symphonyoftidemere@gmail.com
+* Email: omari@otterlyomari.com
 
 ## Support My Work
 
