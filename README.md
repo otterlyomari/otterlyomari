@@ -22,7 +22,7 @@ I enjoy creating accessible, fast, and user-friendly web experiences while conti
 
 ## Featured Repositories
 
-* [OtterlyOmari Website](https://github.com/otterlyomari)
+* [OtterlyOmari Website](https://github.com/otterlyomari/otterlyomari.github/io)
 * [Portfolio Projects](https://github.com/otterlyomari?tab=repositories)
 
 ## Connect With Me
